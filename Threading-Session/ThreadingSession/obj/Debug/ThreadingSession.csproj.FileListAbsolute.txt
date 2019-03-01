@@ -1,0 +1,6 @@
+D:\HD\Projects\Threading\ThreadingSession\ThreadingSession\bin\Debug\ThreadingSession.exe.config
+D:\HD\Projects\Threading\ThreadingSession\ThreadingSession\bin\Debug\ThreadingSession.exe
+D:\HD\Projects\Threading\ThreadingSession\ThreadingSession\bin\Debug\ThreadingSession.pdb
+D:\HD\Projects\Threading\ThreadingSession\ThreadingSession\obj\Debug\ThreadingSession.exe
+D:\HD\Projects\Threading\ThreadingSession\ThreadingSession\obj\Debug\ThreadingSession.pdb
+D:\HD\Projects\Threading\ThreadingSession\ThreadingSession\obj\Debug\ThreadingSession.csprojResolveAssemblyReference.cache
